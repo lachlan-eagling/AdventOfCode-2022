@@ -1,4 +1,4 @@
-# AdventOfCode-2022
+# AdventOfCode 2022
 
 Taking on this years advent of code challenges as a learning project for Rust.
 
