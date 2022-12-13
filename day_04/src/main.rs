@@ -17,6 +17,6 @@ fn main() {
             part_2_count += 1;
         }
     }
-    println!("{:?}", part_1_count);
-    println!("{:?}", part_2_count);
+    println!("{:?}", part_1_count); // 444
+    println!("{:?}", part_2_count); // 801
 }
